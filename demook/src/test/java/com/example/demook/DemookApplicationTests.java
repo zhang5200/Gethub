@@ -1,10 +1,10 @@
-package com.example.demo1;
+package com.example.demook;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Demo1ApplicationTests {
+class DemookApplicationTests {
 
     @Test
     void contextLoads() {
